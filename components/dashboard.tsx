@@ -96,9 +96,9 @@ export default function Dashboard() {
         </Tabs>
       </main>
 
-      <footer className="border-t py-4 text-center text-sm text-muted-foreground">
+      {/* <footer className="border-t py-4 text-center text-sm text-muted-foreground">
         Made with ❤️ by <a href="https://bishnu.info.np" target="_blank" rel="noopener noreferrer" className="hover:underline">Bishnu Thapa</a>
-      </footer>
+      </footer> */}
     </div>
   );
 }
